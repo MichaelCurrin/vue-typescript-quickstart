@@ -1,7 +1,7 @@
 {
   "name": "vue-typescript-quickstart",
   "displayName": "Vue TypeScript Quickstart",
-  "description": "Starter for a new Vue 3 + TS project ",
+  "description": "Starter for a new Vue 3 + TS project",
   "version": "0.1.0",
   "author": "MichaelCurrin",
   "license": "MIT",
