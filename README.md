@@ -9,8 +9,6 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
-<!-- TODO Remove this badge when creating a new app from this template -->
-
 <div align="center">
 
 [![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/vue-typescript-quickstart/generate)
@@ -20,18 +18,12 @@
 
 ## Preview
 
-_This is a placeholder section for a screenshot of your shiny new web app or CLI tool_.
-
-<!-- TODO Replace sample.png in the repo with your own image and then remove the indentation to turn this from a code block to actual markdown image. -->
-
 <div align="center">
     <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
 </div>
 
 
 ## About
-
-<!-- TODO delete this About section on a new site -->
 
 See the [about](/docs/template-notes/about.md) doc for a description of what's included in this project and how to use it this template.
 
