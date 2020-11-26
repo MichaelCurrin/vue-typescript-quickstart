@@ -5,6 +5,7 @@
 
 [![Node CI](https://github.com/MichaelCurrin/vue-typescript-quickstart/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/vue-typescript-quickstart/actions)
 [![Made with Node](https://img.shields.io/badge/Node.js->=10-blue?logo=node.js&logoColor=white)](https://nodejs.org)
+[![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-typescript-quickstart/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-typescript-quickstart)](https://github.com/MichaelCurrin/vue-typescript-quickstart/releases/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
