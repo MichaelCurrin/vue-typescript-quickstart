@@ -65,7 +65,6 @@ These files were created to deal with that:
 - [.prettierignore](/.prettierignore)
 - [.eslintignore](/.estlintignore)
 
-
 ### Prettier error
 
 This looks like a TS compatibility issue in Prettier. It is closed but I still see the issue in latest versions of Prettier, TS and ESLint plugins.
@@ -102,6 +101,7 @@ error: Don't use `{}` as a type. `{}` actually means "any non-nullish value".
   6 |
 ```
 
+And also:
 
 ```
 warning: Unexpected any. Specify a different type (@typescript-eslint/no-explicit-any) at src/shims-vue.d.ts:3:44:
