@@ -28,6 +28,10 @@
 
 See the [about](/docs/template-notes/about.md) doc for a description of what's included in this project and how to use it this template.
 
+If you are interested in Vue without TypeScript, see my other project:
+
+[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
+
 
 ## Documentation
 > How to install, run and deploy this project
