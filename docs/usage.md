@@ -4,21 +4,12 @@
 ## Lint
 
 ```sh
-$ npm run lint
+$ yarn lint
 ```
 
 
-## Run tests
+## Start dev server
 
 ```sh
-$ npm test
-```
-
-
-## Compile
-
-_Useful if you have TypeScript or new JS and you need to compile to plain JS or older JS syntax._
-
-```sh
-$ npm run compile
+$ yarn start
 ```

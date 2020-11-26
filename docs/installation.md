@@ -4,7 +4,7 @@
 
 ## 1. Install system dependencies
 
-Install Node.js - follow these [instructions](https://gist.github.com/MichaelCurrin/aa1fc56419a355972b96bce23f3bccba).
+Install Node.js and Yarn - follow these [instructions](https://gist.github.com/bdc34c554fa3023ee81449eb77375fcb).
 
 
 ## 2. Clone
@@ -17,5 +17,5 @@ $ cd vue-typescript-quickstart
 ## 3. Install project dependencies
 
 ```sh
-$ npm install
+$ yarn install
 ```
