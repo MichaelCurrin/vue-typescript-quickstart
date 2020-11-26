@@ -1,6 +1,6 @@
 # About
 
-<!-- 
+<!--
 This page can be removed when making a new project from this one, but the documentation section of README.md and the docs directory would be good to keep.
 -->
 
@@ -22,7 +22,7 @@ The test command is just a placeholder - you'll have to setup a test suite yours
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/node-project-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/vue-typescript-quickstart/generate)
 
 </div>
 
@@ -51,11 +51,11 @@ This project is deliberately open-ended so you can make choices about your own N
 
 If you are looking for some simple JS projects which are more detailed than this one, see my other repos:
 
-- [react-quickstart](https://github.com/MichaelCurrin/react-quickstart) 
+- [react-quickstart](https://github.com/MichaelCurrin/react-quickstart)
     - Build and deploy a React app to GH Pages using GitHub Actions
 - [preact-quickstart](https://github.com/MichaelCurrin/preact-quickstart)
 - [vue-quickstart](https://github.com/MichaelCurrin/vue-quickstart)
-- [javascript-bundling-quickstarts](https://github.com/MichaelCurrin/javascript-bundling-quickstarts) 
+- [javascript-bundling-quickstarts](https://github.com/MichaelCurrin/javascript-bundling-quickstarts)
     - A couple of JS projects that use a mixture of bundle and compile tools like React, TypeScript and Babel.
-- [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template) 
+- [docsify-js-template](https://github.com/MichaelCurrin/docsify-js-template)
     - For running a markdown-based docs site without writing code.

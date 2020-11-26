@@ -10,8 +10,8 @@ Install Node.js - follow these [instructions](https://gist.github.com/MichaelCur
 ## 2. Clone
 
 ```sh
-$ git clone git@github.com:MichaelCurrin/node-project-template.git
-$ cd node-project-template
+$ git clone git@github.com:MichaelCurrin/vue-typescript-quickstart.git
+$ cd vue-typescript-quickstart
 ```
 
 ## 3. Install project dependencies

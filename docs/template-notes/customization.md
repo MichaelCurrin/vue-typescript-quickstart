@@ -28,7 +28,7 @@ Things to do once you've created a new project from this one:
     - See [Deploy](deploy.md) doc for how this currently works.
     - If you need a more advanced workflow for GitHub Actions, see [Node workflow samples](https://github.com/MichaelCurrin/code-cookbook/tree/master/recipes/ci-cd/github-actions/workflows/node).
 - [ ] Add credits
-    - [ ] Add a link back to the original repo in - https://github.com/MichaelCurrin/node-project-template
+    - [ ] Add a link back to the original repo in - https://github.com/MichaelCurrin/vue-typescript-quickstart
     - [ ] Copy the original license and then put your own name in `LICENSE` file.
         ```sh
         $ cp LICENSE LICENSE-source

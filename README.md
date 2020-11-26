@@ -1,11 +1,11 @@
 # Vue TypeScript Quickstart
->  Starter for a new Vue 3 + TS project 
+>  Starter for a new Vue 3 + TS project
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
-[![Node CI](https://github.com/MichaelCurrin/node-project-template/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/node-project-template/actions)
+[![Node CI](https://github.com/MichaelCurrin/vue-typescript-quickstart/workflows/Node%20CI/badge.svg)](https://github.com/MichaelCurrin/vue-typescript-quickstart/actions)
 [![Made with Node](https://img.shields.io/badge/Node.js->=10-blue?logo=node.js&logoColor=white)](https://nodejs.org)
-[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/node-project-template)](https://github.com/MichaelCurrin/node-project-template/releases/)
+[![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-typescript-quickstart)](https://github.com/MichaelCurrin/vue-typescript-quickstart/releases/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/node-project-template/generate)
+[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/vue-typescript-quickstart/generate)
 
 </div>
 
@@ -40,7 +40,7 @@ See the [about](/docs/template-notes/about.md) doc for a description of what's i
 > How to install, run and deploy this project
 
 <div align="center">
-    
+
 [![View Project Docs](https://img.shields.io/badge/View-Project_Docs-blue?style=for-the-badge)](/docs/)
 
 </div>
