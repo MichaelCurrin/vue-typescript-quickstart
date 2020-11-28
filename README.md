@@ -1,5 +1,5 @@
 # Vue TypeScript Quickstart
->  Starter for a new Vue 3 + TS project
+>  Starter template for a Vue 3 + TS project
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
@@ -26,15 +26,6 @@
 </div>
 
 
-## About
-
-See the [about](/docs/template-notes/about.md) doc for a description of what's included in this project and how to use it this template.
-
-If you are interested in Vue without TypeScript, see my other project. It also includes a step to deploy as a GitHub Pages site.
-
-[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
-
-
 ## Documentation
 > How to install, run and deploy this project
 
@@ -43,6 +34,12 @@ If you are interested in Vue without TypeScript, see my other project. It also i
 [![View Project Docs](https://img.shields.io/badge/View-Project_Docs-blue?style=for-the-badge)](/docs/)
 
 </div>
+
+The top-level docs can be used for a new project. See the [Template Notes](/docs/template-notes/) section for info on the template.
+
+If you are interested in Vue without TypeScript, see my other project below. It also includes a step to deploy as a GitHub Pages site.
+
+[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
 
 
 ## License
