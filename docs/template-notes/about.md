@@ -4,7 +4,19 @@
 
 - [Vue 3 homepage](https://v3.vuejs.org/)
 - [Vue Installation](https://v3.vuejs.org/guide/installation.html)
-- [TypeScript Support](https://v3.vuejs.org/guide/typescript-support.html)
+- [TypeScript Support](https://v3.vuejs.org/guide/typescript-support.html) - this explains how to configure your project and how to add TypeScript to your Vue components.
+- [Class components](https://class-component.vuejs.org/)
+
+
+## Add TypeScript
+
+For an existing Vue project, you can the TypeScript plugin
+
+```sh
+$ vue add typescript
+...
+✔  Successfully installed plugin: @vue/cli-plugin-typescript
+```
 
 
 ## Create a new project from scratch
@@ -17,15 +29,15 @@ Optionally install Vue CLI globally:
 $ npm install -g @vue/cli
 ```
 
-Create the project. You can run this even if you don't have Vue installed.
+Create a new project - you can run this even if you don't have Vue installed.
 
 ```sh
 $ npx vue create my-project-name
 ```
 
-Then options were selected:
+When I ran that, here are options I saw and chose to make this template project.
 
-- Packages: (I added TypeScript)
+- Packages - I only added TypeScript.
     ```
     ❯◉ Babel
     ◉ TypeScript
@@ -39,6 +51,7 @@ Then options were selected:
     ```
 - Vue: 3
 - Babel: Yes
+    > Use Babel alongside TypeScript (required for modern mode, auto-detected polyfills, transpiling JS
 - Class components: No
 - Linter / formatter:
     The first was the default but I like Prettier so chose that.
