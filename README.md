@@ -10,6 +10,7 @@
 [![Made with Node](https://img.shields.io/badge/Node.js->=12-blue?logo=node.js&logoColor=white)](https://nodejs.org)
 [![Made with Yarn](https://img.shields.io/badge/Yarn->=1-blue?logo=yarn&logoColor=white)](https://classic.yarnpkg.com)
 [![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-typescript-quickstart/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
+[![Package - typescript](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-typescript-quickstart/dev/typescript?logo=typescript&logoColor=white)](https://www.npmjs.com/package/typescript)
 
 
 ## Preview
