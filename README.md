@@ -19,6 +19,8 @@
     <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
 </div>
 
+<br>
+
 <div align="center">
 
 [![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/vue-typescript-quickstart/generate)
