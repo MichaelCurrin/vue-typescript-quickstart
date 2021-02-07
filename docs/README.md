@@ -1,4 +1,4 @@
-# Node Project Template docs
+# Vue TypeScript Quickstart docs
 
 - [Installation](installation.md)
 - [Usage](usage.md)
