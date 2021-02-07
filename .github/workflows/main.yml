@@ -1,6 +1,14 @@
 name: Node CI
 
-on: push
+on:
+  push:
+    branches: main
+    paths-ignore:
+      - "docs/**"
+  pull_request:
+    branches: main
+    paths-ignore:
+      - "docs/**"
 
 jobs:
   build:
