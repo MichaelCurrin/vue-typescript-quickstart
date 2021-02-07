@@ -1,5 +1,5 @@
 # Vue TypeScript Quickstart
->  Starter template for a Vue 3 TypeScript project - including docs and CI
+> Starter template for a Vue 3 TypeScript project - including docs and CI
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
