@@ -1,5 +1,5 @@
 # Vue TypeScript Quickstart
->  Starter template for a Vue 3 + TS project
+>  Starter template for a Vue 3 + TS project - including docs and CI
 
 <!-- Badges generated with: https://michaelcurrin.github.io/badge-generator/ -->
 
@@ -9,20 +9,19 @@
 [![Package - vue](https://img.shields.io/github/package-json/dependency-version/MichaelCurrin/vue-typescript-quickstart/vue?logo=vue.js&logoColor=white)](https://www.npmjs.com/package/vue)
 
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/vue-typescript-quickstart)](https://github.com/MichaelCurrin/vue-typescript-quickstart/releases/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](#license)
-
-
-<div align="center">
-
-[![Use this template](https://img.shields.io/badge/Use_this_template-2ea44f?style=for-the-badge&logo=github)](https://github.com/MichaelCurrin/vue-typescript-quickstart/generate)
-
-</div>
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 
 ## Preview
 
 <div align="center">
     <img src="/sample.png" alt="Sample screenshot" title="Sample screenshot" />
+</div>
+
+<div align="center">
+
+[![Use this template](https://img.shields.io/badge/Generate-Use_this_template-2ea44f?style=for-the-badge)](https://github.com/MichaelCurrin/vue-typescript-quickstart/generate)
+
 </div>
 
 
@@ -44,4 +43,4 @@ If you are interested in Vue without TypeScript, see my other project below. It 
 
 ## License
 
-Released under [MIT](/LICENSE).
+Released under [MIT](/LICENSE) by [@MichaelCurrin](https://github.com/MichaelCurrin).
