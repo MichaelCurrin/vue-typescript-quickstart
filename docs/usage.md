@@ -4,7 +4,7 @@
 ## Lint
 
 ```sh
-$ yarn lint
+$ yarn lint:fix
 ```
 
 
