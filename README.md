@@ -42,13 +42,9 @@ The top-level docs can be used for a new project. See the [Template Notes](/docs
 
 ## Related projects
 
-If you are interested in Vue but without TypeScript, then see my other project below. It also includes a step to deploy as a GitHub Pages site.
-
-[![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
-
-For adding Vue Router, see this template:
-
-[![MichaelCurrin - vue-router-ts-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-router-ts-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-router-ts-quickstart)
+- [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart) - For if you are interested in Vue but without TypeScript. It also includes a step to deploy as a GitHub Pages site.
+- [![MichaelCurrin - vue-router-ts-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-router-ts-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-router-ts-quickstart) - for adding Vue Router, see this template.
+- [![MichaelCurrin - vue-frontend-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-frontend-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-frontend-quickstart) - no TypeScript, Node or build step.
 
 
 ## License
