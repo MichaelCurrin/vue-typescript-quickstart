@@ -39,9 +39,16 @@
 
 The top-level docs can be used for a new project. See the [Template Notes](/docs/template-notes/) section for info on the template.
 
-If you are interested in Vue but _without_ TypeScript, then see my other project below. It also includes a step to deploy as a GitHub Pages site.
+
+## Related projects
+
+If you are interested in Vue but without TypeScript, then see my other project below. It also includes a step to deploy as a GitHub Pages site.
 
 [![MichaelCurrin - vue-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-quickstart)
+
+For adding Vue Router, see this template:
+
+[![MichaelCurrin - vue-router-ts-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=vue-router-ts-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/vue-router-ts-quickstart)
 
 
 ## License
